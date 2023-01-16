@@ -3,5 +3,10 @@
 * {
     background-color: deepskyblue;
     color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace, serif, sans-serif;
     text-align: center;
+}
+
+.return {
+    color: goldenrod;
 }
